@@ -1,0 +1,31 @@
+# SEO keywords and description for your site.
+keywords = "hugo, tailwind, tailwindcss, hugo theme, hugo theme tailwind"
+subtitle = "Example site for hugo-theme-tailwind"
+
+# dir name of your blog content (default is `content/posts`).
+# the list of set content will show up on your index page (baseurl).
+contentTypeName = "post"
+
+jsonLD = true
+
+showAuthor = true
+
+[author]
+  name = "Jacob Jeffries"
+  email = "jwjeffries2000@gmail.com"
+
+[header]
+  logo = "logo.svg"
+  title = "Hugo Theme Tailwind"
+
+[footer]
+  since = 2025
+  poweredby = true
+
+[pwa]
+  enabled = true
+  icon = "logo.png" # should be in assets
+  icon_sizes = [192, 512]
+
+  [manifest]
+  description = "Example site for hugo-theme-tailwind"
