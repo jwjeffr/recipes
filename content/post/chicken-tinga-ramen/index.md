@@ -3,6 +3,7 @@ title = "Chicken Tinga Ramen"
 date = "2024-12-10T01:18:32+01:00"
 description = "A wonderful marriage of chicken tinga and ramen"
 tags = []
+image = "https://github.com/jwjeffr/recipes/blob/main/static/images/chicken-tinga-ramen/IMG_2799.jpeg?raw=true"
 +++
 
 ### Ingredients
@@ -70,7 +71,5 @@ tags = []
 10. Place the noodles in the pot, and add stock until the chicken/sauce mixture reaches a consistency you like. Remember, you can always add, but not remove.
 
 11. Serve in bowls, putting your garnishes (avocado, jalapeno, red onion, and lime wedges) on top, and enjoy! This is best served with Corona Light beer, in my opinion. I personally have a cilantro addiction, so feel free to go easier on the cilantro than I did.
-
-![Garnished bowl](https://github.com/jwjeffr/recipes/blob/main/static/images/chicken-tinga-ramen/IMG_2799.jpeg?raw=true)
 
 12. Enjoy! Be careful, this is a spicy dish! If you don't have the best spice tolerance, consider pairing this with something creamy like horchata.
