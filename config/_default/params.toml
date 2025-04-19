@@ -1,6 +1,6 @@
 # SEO keywords and description for your site.
-keywords = "hugo, tailwind, tailwindcss, hugo theme, hugo theme tailwind"
-subtitle = "Example site for hugo-theme-tailwind"
+keywords = "cooking, recipes"
+subtitle = "Jacob Jeffries"
 favicon = "https://github.com/jwjeffr/recipes/raw/refs/heads/main/static/favicon.ico"
 
 # dir name of your blog content (default is `content/posts`).
@@ -16,8 +16,8 @@ showAuthor = true
   email = "jwjeffries2000@gmail.com"
 
 [header]
-  logo = "logo.svg"
-  title = "Hugo Theme Tailwind"
+  logo = "https://github.com/jwjeffr/recipes/raw/refs/heads/main/static/icon.png"
+  title = "Cooking Blog"
 
 [footer]
   since = 2025
@@ -25,8 +25,8 @@ showAuthor = true
 
 [pwa]
   enabled = true
-  icon = "logo.png" # should be in assets
+  icon = "https://github.com/jwjeffr/recipes/raw/refs/heads/main/static/icon.png" # should be in assets
   icon_sizes = [192, 512]
 
   [manifest]
-  description = "Example site for hugo-theme-tailwind"
+  description = "My personal cooking blog"
