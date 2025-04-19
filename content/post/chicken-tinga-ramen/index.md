@@ -5,7 +5,7 @@ description = "A wonderful marriage of chicken tinga and ramen"
 tags = []
 +++
 
-### Ingredients:
+### Ingredients
 
 ---
 
@@ -39,7 +39,7 @@ tags = []
 - Lime wedges (Optional)
     - Last garnish!
 
-### Instructions:
+### Instructions
 
 ---
 
@@ -51,13 +51,13 @@ tags = []
 
 4. Put your tomatoes, chicken, chipotle peppers, garlic, and onion in your slow cooker. Optionally break off your cilantro stems and put the stems in. The fibrous texture that a lot of people don't like becomes less chalky when they're slow-cooked, in my opinion. All of these amounts are to your heart's desire, but I usually use one 7-oz can of chipotle peppers per 3 chicken thighs. Just remember that the tomatoes and chipotle peppers should be the star of the show :)
 
-![Ingredients in bowl](https://jwjeffr.github.io/cooking/IMG_2795.jpeg)
+![Ingredients in bowl](https://github.com/jwjeffr/recipes/blob/main/static/images/chicken-tinga-ramen/IMG_2795.jpeg?raw=true)
 
 5. Mix the mixture
 
 6. Season the mixture with MSG, oregano, and a little bit of olive oil.
 
-![Mixed uncooked ingredients](https://jwjeffr.github.io/cooking/IMG_2797.jpeg)
+![Mixed uncooked ingredients](https://github.com/jwjeffr/recipes/blob/main/static/images/chicken-tinga-ramen/IMG_2797.jpeg?raw=true)
 
 7. Set aside, and cook on a low-heat for at least 4 hours. The longer this cooks, the better, but the acidity in the adobo sauce can give the chicken a weird texture if you cook it for way too long. This probably shouldn't be cooking for more than 8 hours. Halfway through cooking, or once the chicken is fork-tender, shred the chicken, and remove the bones if necessary.
 
@@ -65,12 +65,12 @@ tags = []
 
 9. Once the chicken is done, shut off the slow cooker and thoroughly stir the chicken and sauce together. Let this cool down a little bit, at least until it stops boiling.
 
-![Mixed cooked ingredients](https://jwjeffr.github.io/cooking/IMG_2798.jpeg)
+![Mixed cooked ingredients](https://github.com/jwjeffr/recipes/blob/main/static/images/chicken-tinga-ramen/IMG_2798.jpeg?raw=true)
 
 10. Place the noodles in the pot, and add stock until the chicken/sauce mixture reaches a consistency you like. Remember, you can always add, but not remove.
 
 11. Serve in bowls, putting your garnishes (avocado, jalapeno, red onion, and lime wedges) on top, and enjoy! This is best served with Corona Light beer, in my opinion. I personally have a cilantro addiction, so feel free to go easier on the cilantro than I did.
 
-![Garnished bowl](https://jwjeffr.github.io/cooking/IMG_2799.jpeg)
+![Garnished bowl](https://github.com/jwjeffr/recipes/blob/main/static/images/chicken-tinga-ramen/IMG_2799.jpeg?raw=true)
 
-12. Enjoy! Be careful, this is a spicy dish! If you don't have the best spice tolerance, consider pairing this with something creamy like horchata.+++
+12. Enjoy! Be careful, this is a spicy dish! If you don't have the best spice tolerance, consider pairing this with something creamy like horchata.
