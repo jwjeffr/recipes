@@ -1,25 +1,19 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "My cooking blog :)"
+date = "2025-04-18"
+aliases = ["about"]
+author = "Jacob Jeffries"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+My name is Jacob and I'm a huge nerd. I love cooking from the heart.
 
-Hugo makes use of a variety of open source projects including:
+I especially love recipes that are easy to modify for new tastes, in the form of substituting ingredients, adding more of or entirely removing certain ingredients, etc. I believe cooking is one of the most beautiful forms of self-expression and culture, and therefore anything you make should reflect who you are, like how each author has their own writing style.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Throughout my own journey as someone dedicated to cooking from the heart, I haven't found many resources for someone who is looking for recipe templates that they can modify to their own tastes and style. My goal with this blog is to provide this type of resource, i.e. a place with recipes of which you can freely change and modify without ruining the dish. Not only do I think this is the most beautiful form of cooking, but this type of practice is excellent at giving you the intuition of a cook, which is arguably the most important skill to have when it comes to making food.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+You might get overzealous when modifying my recipes and make a mistake, but that's okay! Learning from your own mistakes is the best way to get good at something. I've certainly made plenty while following this philosophy.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Or, you can copy my recipes directly - I don't mind :)
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+[Recipes](https://jwjeffr.github.io/recipes)
