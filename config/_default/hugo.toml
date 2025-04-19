@@ -6,7 +6,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
-theme = "tailwind"
+theme = "hugo-theme-tailwind"
 enableGitInfo = true
 
 [markup]
