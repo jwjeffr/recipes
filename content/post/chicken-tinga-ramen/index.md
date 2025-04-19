@@ -1,12 +1,7 @@
 +++
 title = "Chicken Tinga Ramen"
 date = "2024-12-10T01:18:32+01:00"
-
-#
-# description is optional
-#
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
-
+description = "A wonderful marriage of chicken tinga and ramen"
 tags = []
 +++
 
