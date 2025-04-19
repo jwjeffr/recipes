@@ -2,7 +2,7 @@
 title = "Chicken Tinga Ramen"
 date = "2024-12-10T01:18:32+01:00"
 description = "A wonderful marriage of chicken tinga and ramen"
-tags = []
+tags = ["Mexican", "Japanese"]
 image = "https://github.com/jwjeffr/recipes/blob/main/static/images/chicken-tinga-ramen/IMG_2799.jpeg?raw=true"
 +++
 

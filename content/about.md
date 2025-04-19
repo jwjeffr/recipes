@@ -14,6 +14,6 @@ Throughout my own journey as someone dedicated to cooking from the heart, I have
 
 You might get overzealous when modifying my recipes and make a mistake, but that's okay! Learning from your own mistakes is the best way to get good at something. I've certainly made plenty while following this philosophy.
 
-Or, you can copy my recipes directly - I don't mind :)
+Or, you can copy my recipes directly - I don't mind 🙂
 
 [Recipes](https://jwjeffr.github.io/recipes)
